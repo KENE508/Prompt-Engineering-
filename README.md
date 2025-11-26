@@ -12,3 +12,26 @@ What is a prompt ?
 Prompt Engineering ? 
 * the practice of developing and optimizing prompts to efficiently use an AI for a certain task
 
+* Note that the only time these LLMs "think" is when they type
+* You always want to bias the model towards being more accurate and  effective by asking it for evidence. You could also provide hints to guide the model in it's explanations 
+
+ Some of the features of multi-modality include;
+ * Acceptance and generation of text
+ * Accept and generate images
+ * Browse the internate particularly for information that's past it's cut of date
+ * It can execute python code
+
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
