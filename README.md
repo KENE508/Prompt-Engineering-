@@ -21,6 +21,8 @@ Prompt Engineering ?
  * Browse the internate particularly for information that's past it's cut of date
  * It can execute python code
 
+AI models and their chatbots are 2 very different things. For instance, open AI model, OpenAI(GPT -4) would allow you interact with this model through chatgpt or the PaLM model by google through Bard or Gemini etc
+
 
    
  
