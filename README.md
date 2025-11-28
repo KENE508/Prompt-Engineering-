@@ -23,9 +23,18 @@ Prompt Engineering ?
 
 AI models and their chatbots are 2 very different things. For instance, open AI model, OpenAI(GPT -4) would allow you interact with this model through chatgpt or the PaLM model by google through Bard or Gemini etc
 
+In reality LLMs use Tokens to identify different words. Behind the scenes, it breaks down words into tokens, using a lot of maths and statistics to determine what words are statistically probable to follow your tokens based on what it learnt from it's training data.  
 
-   
- 
+
+# Inside LLMs
+* Parameters --> 
+* Layers -->
+* Tokens -->
+ The more parameter, layers and tokens you feed an LLM, the "smarter" they get.So you'd want to use LLMs with more of these features
+
+## The Reversal Curse 
+For LLMs A = B but B != A 
+That's what the reversal curse talks about 
 
 
 
