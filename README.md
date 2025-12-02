@@ -38,6 +38,17 @@ That's what the reversal curse talks about
 
 
 
+# Prompt engineering framework 
+* The standard prompt --> A prompt consisting of only a question or instruction
+
+## The set up
+* The system message --> A defaut or initial peompt that is provided to the model by it's creator 
+
+* Context --> Look to include additional context it primes the model to think the way you want it to be thinking you want it to
+* Managing the token limit of a model is crucial to maintaining the accuracy and cohenrence of the model's outputs 
+
+
+
 
 
 
