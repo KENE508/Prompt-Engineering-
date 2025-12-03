@@ -45,7 +45,14 @@ That's what the reversal curse talks about
 * The system message --> A defaut or initial peompt that is provided to the model by it's creator 
 
 * Context --> Look to include additional context it primes the model to think the way you want it to be thinking you want it to
-* Managing the token limit of a model is crucial to maintaining the accuracy and cohenrence of the model's outputs 
+* Managing the token limit of a model is crucial to maintaining the accuracy and cohenrence of the model's outputs
+* Chatgpt tends to rememeber information or context given to it at the beginning than at the middle. it's also good at the end but the beginning is just key. Funny enough the human brain tends to behave the same way.
+* More context can also become less accuracy so aim to provide context that is required because when large amounts of context is required, be aware there is a greater risk of inaccuracies
+
+
+# Personas amd Role 
+* You could consider starting your prompt with things like "You are a senior programer or expert lawyer" etc followed by the actual task that you want it to do. Personas help the model give you more accurate outputs, additional context and they make LLMs more intuitive (and engaging) to interact with. Consider giving personas a unique tone, style and voice, again for more context!  
+ 
 
 
 
