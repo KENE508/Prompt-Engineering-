@@ -52,7 +52,10 @@ That's what the reversal curse talks about
 
 # Personas amd Role 
 * You could consider starting your prompt with things like "You are a senior programer or expert lawyer" etc followed by the actual task that you want it to do. Personas help the model give you more accurate outputs, additional context and they make LLMs more intuitive (and engaging) to interact with. Consider giving personas a unique tone, style and voice, again for more context!  
- 
+
+
+ # Techniques Of Prompting 
+ * Chain of thought prompting --> Improves the performance of LLMs by explicitly prompting the model to generate a step by step explanation or reasoning process before arriving at the final answer. This method helps the model break down the problem and not skip any intermediate tasks to avoid reasoning failures 
 
 
 
