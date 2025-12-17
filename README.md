@@ -55,9 +55,25 @@ That's what the reversal curse talks about
 
 
  # Techniques Of Prompting 
- * Chain of thought prompting --> Improves the performance of LLMs by explicitly prompting the model to generate a step by step explanation or reasoning process before arriving at the final answer. This method helps the model break down the problem and not skip any intermediate tasks to avoid reasoning failures 
+ * Chain of thought prompting --> Improves the performance of LLMs by explicitly prompting the model to generate a step by step explanation or reasoning process before arriving at the final answer. This method helps the model break down the problem and not skip any intermediate tasks to avoid reasoning failures
 
 
+# Data Camp Prompt engineering course
+## The anatomy of a prompt 
+* Clear --> Relevant context
+* Specific --> Avoid unnecessary information
+* Open-ended --> Allowing the model to think outside the box  
+
+## Different types of chain of thought Prompting 
+* Zero shot --> No structure provided, the LLM solves the problem alone
+* One/few shot --> Roadmap of steps the LLM can follow to solve problems
+
+
+## Limitations of LLMs 
+* Biases --> The model presents stereotypes or misinformation
+* Hallucinations --> The model confidently states incorrect information
+* Overfitting --> The model is only as good as the data it is trained on
+  
 
 
 
