@@ -73,6 +73,27 @@ That's what the reversal curse talks about
 * Biases --> The model presents stereotypes or misinformation
 * Hallucinations --> The model confidently states incorrect information
 * Overfitting --> The model is only as good as the data it is trained on
+Chatgpt has a knowledge cut off, you could simply state "if you don't know the answer and believe this information is after your cutoff date, specify that you don't know". 
+
+
+# Structuring a Prompt
+## Output control techniques (SALT)
+* Style --> Define the framework S
+* Audience --> Tailoring the content A
+* Length --> Brevity or depth L
+* Tone --> Mood and feel T
+
+## Evaluating Responses (LARF)
+* Logical consistency --> L
+* Accuracy --> A
+* Relevance --> R
+* Factual Correctness --> F
+
+## The power of markdowns
+* You can create a more targetted response using things like markdown hastags to indicate different levels of the headers in your prompt, You can also use bold for the text by using double asteriks or underscores for the text you want to highlight, Quotation marks also highlight specific context, delimiters act as a clear seperators for your prompts  
+
+
+
   
 
 
