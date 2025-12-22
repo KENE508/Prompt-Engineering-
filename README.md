@@ -90,7 +90,18 @@ Chatgpt has a knowledge cut off, you could simply state "if you don't know the a
 * Factual Correctness --> F
 
 ## The power of markdowns
-* You can create a more targetted response using things like markdown hastags to indicate different levels of the headers in your prompt, You can also use bold for the text by using double asteriks or underscores for the text you want to highlight, Quotation marks also highlight specific context, delimiters act as a clear seperators for your prompts  
+* You can create a more targetted response using things like markdown hastags to indicate different levels of the headers in your prompt, You can also use bold for the text by using double asteriks or underscores for the text you want to highlight, Quotation marks also highlight specific context, delimiters act as a clear seperators for your prompts
+
+
+
+# Training Techniques 
+* Zero-shot learning -> When you give a tasks without giving examples. It relies on it's own training data for the answers
+* One-shot learning -> Give the model an example of what you want it to do once to guide it's response
+* few-shot learning -> Arm the model with multiple examples to guide it's respnose. Each example would serve as a building block for the model giving it richer context of what we want.
+* Zero-shot(COT) -> Encouraging the model to "think" step by step prompting the model to give us access to it's way of reasoning in the context of a particular task, allowing us to better understand and verify it's conclusions.
+* One-shot(COT) -> Teaching the model how to approach problems
+
+
 
 
 
