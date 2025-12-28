@@ -103,8 +103,17 @@ Chatgpt has a knowledge cut off, you could simply state "if you don't know the a
 
 
 
+# COURSE 2 
+
+## The AI landscape --> They are not different types on the same level because they represent a nested hierarchy of techniques and a specific field of study
+* Machine Learning --> A software of AI that enables models to learn patterns from data without explicit instructions.
+* Deep Learning --> Recognizes complex patterns like thoes found in computer vision and self driving cars.
+* NLP --> Utilizes machine learning techniques to understand and process human language by computers
+* LLMs --> Use deep learning techniques to go from a variety of Natural variety of NLP tasks, such as classification, summerization, generation and more.
 
 
+## Multimodal application of LLMs
+* Can process and generate information across diferent data types, such as text, audio, video and images in contrast to multi model which works with one of the modes such as text only
   
 
 
