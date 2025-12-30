@@ -114,9 +114,15 @@ Chatgpt has a knowledge cut off, you could simply state "if you don't know the a
 
 ## Multimodal application of LLMs
 * Can process and generate information across diferent data types, such as text, audio, video and images in contrast to multi model which works with one of the modes such as text only
-  
 
 
+## Building blocks to train LLMs
+* Generative pre-training --> LLMs are typically trained using this technique
+   * Next word prediction --> A supervised learning technique that trains the model on the input data and it's corresponding output. It predicts the next word in a sentence
+   * Masked language modeling --> Involves training a model to predict a masked word that is selectively hidden in a sentence 
+
+### The Transformer Architecture
+A neutral network that enables LLMs process an entire sequence of text (like a sentence) in parallel, rather than sequentially like older models.
 
 
 
