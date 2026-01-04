@@ -125,6 +125,10 @@ Chatgpt has a knowledge cut off, you could simply state "if you don't know the a
 A neutral network that enables LLMs process an entire sequence of text (like a sentence) in parallel, rather than sequentially like older models.
 
 
+# LLMs in the business world 
+* Microsoft's copilot
+* khan academy's khanmingo
+* Bloomberg's BloombergGPT
 
 
 
