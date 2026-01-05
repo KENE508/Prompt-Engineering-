@@ -130,6 +130,15 @@ A neutral network that enables LLMs process an entire sequence of text (like a s
 * khan academy's khanmingo
 * Bloomberg's BloombergGPT
 
+# Use cases of LLMs 
+* Data Transformation
+* Natural Language Interface
+* Workflow automation
+* Copilots and Assistants
+* Autonomous Agents
+
+Look into the Open Workd Application Security Project(OWASP) --> To see how the challenges with LLMs are being mitigated 
+
 
 
 
