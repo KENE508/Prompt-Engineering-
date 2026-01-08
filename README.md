@@ -139,6 +139,20 @@ A neutral network that enables LLMs process an entire sequence of text (like a s
 
 Look into the Open Workd Application Security Project(OWASP) --> To see how the challenges with LLMs are being mitigated 
 
+## The four part framework for prompting AI 
+1. Ask --> The core request of what you want, eg explain this for me
+2. Requirements --> These are your specific constraints and prefernces, eg Number of paragraphs, what to focus on and what to avoid.
+3. Context --> The background information thats going to shape how how the task should be done
+4. Example --> Showing what "good" looks like. The whole idea is not to leave any room for the AI to guess.
+Remember, AI is capable but context blind. It literally doesn't know anything about what you want to do.
+
+
+## More Limitations of AI
+1. Knowledge fabrication --> Also known as hallucination, when false information is confidently presented as correct
+2. Recency Ignorance --> Also known as knowledge cut off date, this is the date limit on the model's knowledge of events
+3. Biased outputs --> Reflect and amolify social bias from it's training date
+4. Sycophantic outputs --> Telling you what it thinks you want to hear, it would readily validate your perspective and support your decisions
+5. Privacy and data Exposure --> Information shared with AI may not stay private 
 
 
 
