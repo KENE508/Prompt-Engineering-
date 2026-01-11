@@ -150,9 +150,13 @@ Remember, AI is capable but context blind. It literally doesn't know anything ab
 ## More Limitations of AI
 1. Knowledge fabrication --> Also known as hallucination, when false information is confidently presented as correct
 2. Recency Ignorance --> Also known as knowledge cut off date, this is the date limit on the model's knowledge of events
-3. Biased outputs --> Reflect and amolify social bias from it's training date
+3. Biased outputs --> Reflect and amplify social bias from it's training date
 4. Sycophantic outputs --> Telling you what it thinks you want to hear, it would readily validate your perspective and support your decisions
 5. Privacy and data Exposure --> Information shared with AI may not stay private 
+
+
+# Understanding chatgpt
+* Chatgpt uses generative Ai to respond to users and generative Ai is a subset of artificial intelligence and machine learning where a model creates new content based on patterns in information it has already seen. 
 
 
 
