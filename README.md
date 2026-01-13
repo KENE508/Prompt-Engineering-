@@ -161,3 +161,18 @@ Remember, AI is capable but context blind. It literally doesn't know anything ab
 
 
 
+# Machine learning 
+A set of tools for making inferences and predictions from data
+
+## Types of Machine learning 
+* Reinforcement learning --> Used for deciding sequencial actions, like a robot deciding it's next path or it's next move in a chess game. It uses complex mathmatics like game theory
+* Supervised learning --> Training data is labeled
+* Unsupervised learning --> Training data only has features, it is useful for anomaly detection, clustering eg dividing data into groups
+
+## Machine learning workflow
+1. Extract features --> choosing features and manipulating the dataset
+2. Split dataset --> Train and test the dataset
+3. Train model --> Input train dataset into a machine learning model
+4. Evaluate --> If the dersired performance isn't reached: tune the model and repeat step 3
+
+
