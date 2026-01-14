@@ -175,4 +175,21 @@ A set of tools for making inferences and predictions from data
 3. Train model --> Input train dataset into a machine learning model
 4. Evaluate --> If the dersired performance isn't reached: tune the model and repeat step 3
 
+A. Supervised learning: "Learning with a Teacher" --> The model is trained on labeled data, which means the input comes with the correct answer (the label) attached. The goal is for the machine to learn the relationship between the data and its label so it can predict labels for new, unseen data. This has 2 flavors; classification and regression
+ * Classification --> Consists of assiging a category to an observation
+ * Regression --> Consists of assigning a continious variable 
+
+B. Unsupervised Learning: "Learning on Its Own"
+The model is given unlabeled data with no "right answers" provided. The machine must find its own hidden patterns, structures, or groupings within the data without any human guidance. This has 3 flavors;
+ * Clutering --> Identifying groups in your dataset. Some clustering models include; K-means, DBSCAN, get ready - "Density-based spatial clustering of applications with noise"
+ * Anomaly detection --> All about detecting outliers, some use cases include discover devices that fail faster or last longer, discover fraudsters that manage to trick the system, Discover patients that resist a fatal disease
+ * Association --> Consists in finding relationships between obeservations
+
+### Improving Model's performance 
+1. Dimentionality reduction
+2. Hyperparameter tuning
+3. Ensemble methods 
+
+
+
 
