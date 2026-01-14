@@ -186,9 +186,9 @@ The model is given unlabeled data with no "right answers" provided. The machine 
  * Association --> Consists in finding relationships between obeservations
 
 ### Improving Model's performance 
-1. Dimentionality reduction
-2. Hyperparameter tuning
-3. Ensemble methods 
+1. Dimentionality reduction --> Reducing the number of features (dimentionality means features)
+2. Hyperparameter tuning --> Switching hyperparameter values to get different results 
+3. Ensemble methods --> This is a technique that combines several models in order to produce one optimal model 
 
 
 
