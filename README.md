@@ -188,7 +188,11 @@ The model is given unlabeled data with no "right answers" provided. The machine 
 ### Improving Model's performance 
 1. Dimentionality reduction --> Reducing the number of features (dimentionality means features)
 2. Hyperparameter tuning --> Switching hyperparameter values to get different results 
-3. Ensemble methods --> This is a technique that combines several models in order to produce one optimal model 
+3. Ensemble methods --> This is a technique that combines several models in order to produce one optimal model
+
+
+## Deep learning 
+Deep learning uses an algorithm called neuron networks, it is a special type of machine learning that can solve complex 
 
 
 
