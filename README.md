@@ -192,7 +192,24 @@ The model is given unlabeled data with no "right answers" provided. The machine 
 
 
 ## Deep learning 
-Deep learning uses an algorithm called neuron networks, it is a special type of machine learning that can solve complex 
+Deep learning uses an algorithm called neuron networks, it is a special type of machine learning that can solve more complex problems but requires much more data than traditional machine learning. It's job is to map relationships between different combinations of variables to the desired output 
+
+### When to use deep learning 
+* When the data size is large
+* Access to processing power
+* Lack of domain knowledge (Neural network would figure them out for you)
+* Really shines when it comes to complex problems such as computer vision and Natural language processing 
+
+
+### The process
+* Computer vision --> The goal is to help computers see and understand the content of digital images, it's necessay to enable self driving cara
+* Natural Lanuguage Processing --> The ability for computers to understand the meaning of human language
+
+
+Applications of NLP include; Language translation such as google translate, chatbots used by companies to message customers, personal assistants such as siri and Alexia, sentiment analysis to quantify how positive or negative the emotion is
+
+### Limitations of Machine learning 
+1. Output quality depends on input quality
 
 
 
