@@ -212,5 +212,10 @@ Applications of NLP include; Language translation such as google translate, chat
 1. Output quality depends on input quality
 
 
+## Generative AI Concepts 
+
+
+
+
 
 
