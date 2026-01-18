@@ -213,7 +213,7 @@ Applications of NLP include; Language translation such as google translate, chat
 
 
 ## Generative AI Concepts 
-
+Machine learning models that generate new content from data 
 
 
 
