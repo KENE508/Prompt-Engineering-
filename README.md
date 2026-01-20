@@ -213,7 +213,15 @@ Applications of NLP include; Language translation such as google translate, chat
 
 
 ## Generative AI Concepts 
-Machine learning models that generate new content from data 
+These are Machine learning models that generate new content from data. 
+
+## Model design and data collection 
+Developing a new generative AI model include 4 key steps which include;
+* Research and design --> 
+* Training data collection and preperation -->
+* Model training --> 
+* Model evaluation --> 
+
 
 
 
